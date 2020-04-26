@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/IlRoman/TodoList-react_redux/static/css/main.d1b05096.chunk.css",
-    "main.js": "/IlRoman/TodoList-react_redux/static/js/main.bb82685d.chunk.js",
-    "main.js.map": "/IlRoman/TodoList-react_redux/static/js/main.bb82685d.chunk.js.map",
-    "runtime-main.js": "/IlRoman/TodoList-react_redux/static/js/runtime-main.8b9d1591.js",
-    "runtime-main.js.map": "/IlRoman/TodoList-react_redux/static/js/runtime-main.8b9d1591.js.map",
-    "static/js/2.c6e1514d.chunk.js": "/IlRoman/TodoList-react_redux/static/js/2.c6e1514d.chunk.js",
-    "static/js/2.c6e1514d.chunk.js.map": "/IlRoman/TodoList-react_redux/static/js/2.c6e1514d.chunk.js.map",
-    "index.html": "/IlRoman/TodoList-react_redux/index.html",
-    "precache-manifest.178500ffd0cdd6c1258d3712a5778892.js": "/IlRoman/TodoList-react_redux/precache-manifest.178500ffd0cdd6c1258d3712a5778892.js",
-    "service-worker.js": "/IlRoman/TodoList-react_redux/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/IlRoman/TodoList-react_redux/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.c6e1514d.chunk.js.LICENSE.txt": "/IlRoman/TodoList-react_redux/static/js/2.c6e1514d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/IlRoman/TodoList-react_redux/static/media/logo.5d5d9eef.svg"
+    "main.css": "/TodoList-react_redux/static/css/main.d1b05096.chunk.css",
+    "main.js": "/TodoList-react_redux/static/js/main.9f420e71.chunk.js",
+    "main.js.map": "/TodoList-react_redux/static/js/main.9f420e71.chunk.js.map",
+    "runtime-main.js": "/TodoList-react_redux/static/js/runtime-main.68c863d9.js",
+    "runtime-main.js.map": "/TodoList-react_redux/static/js/runtime-main.68c863d9.js.map",
+    "static/js/2.c6e1514d.chunk.js": "/TodoList-react_redux/static/js/2.c6e1514d.chunk.js",
+    "static/js/2.c6e1514d.chunk.js.map": "/TodoList-react_redux/static/js/2.c6e1514d.chunk.js.map",
+    "index.html": "/TodoList-react_redux/index.html",
+    "precache-manifest.8b94441cbfad6b625d722467c3010e5e.js": "/TodoList-react_redux/precache-manifest.8b94441cbfad6b625d722467c3010e5e.js",
+    "service-worker.js": "/TodoList-react_redux/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/TodoList-react_redux/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c6e1514d.chunk.js.LICENSE.txt": "/TodoList-react_redux/static/js/2.c6e1514d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TodoList-react_redux/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b9d1591.js",
+    "static/js/runtime-main.68c863d9.js",
     "static/js/2.c6e1514d.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.bb82685d.chunk.js"
+    "static/js/main.9f420e71.chunk.js"
   ]
 }
